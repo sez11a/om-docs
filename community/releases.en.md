@@ -30,7 +30,7 @@ cards:
     url: "/community/releases/rock-6.0-changelog.en.html"
   - title: "Release Plan and Repositories"
     description: "How packages flow from Cooker through Rolling to stable releases."
-    url: "/community/releases/index.en.html"
+    url: "/community/releases/release-plan-and-repositories.en.html"
   - title: "Repository Policies"
     description: "Rules for Cooker, ROME, and Rock development branches."
     url: "/community/releases/repository-policies.en.html"

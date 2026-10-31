@@ -39,5 +39,5 @@ $ rpm -qa --last > pkglist-last.txt
 - [List the Latest Updates](./list-the-latest-updates.en.html)
 - [Create an Install Command from a Package List](./create-an-install-command-from-a-package-list.en.html)
 - [List All Packages in the ISO](./list-all-packages-in-the-iso.en.html)
-- [Using DNF](../index.en.html)
+- [Using DNF](../using-dnf.en.html)
 - [Maintaining Your System](../../maintaining-your-system.en.html)

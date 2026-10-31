@@ -131,6 +131,6 @@ Stay connected with other users and contributors.
 - [Managing Software](managing-software.en.html)
 - [Desktop Environments](desktop-environments.en.html)
 - [Network Configuration](network-configuration.en.html)
-- [Using DNF](managing-software/index.en.html)
+- [Using DNF](managing-software/using-dnf.en.html)
 - [Software Repository Selector](managing-software/software-repository-selector.en.html)
 - [OpenMandriva Welcome](managing-software/openmandriva-welcome.en.html)

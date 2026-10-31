@@ -135,7 +135,7 @@ You need ABF access to push the package to a repository, so start that request e
 
 ## Building for Release
 
-A Cooker build is not enough. Packages move through the [release plan](../community/releases/index.en.html): Cooker first, then the rolling release, then the stable release. QA verifies each package before it leaves Cooker. Do not edit the release repositories directly.
+A Cooker build is not enough. Packages move through the [release plan](../community/releases/release-plan-and-repositories.en.html): Cooker first, then the rolling release, then the stable release. QA verifies each package before it leaves Cooker. Do not edit the release repositories directly.
 
 ## Updating Packages to a Newer Version
 

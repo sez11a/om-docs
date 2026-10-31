@@ -67,6 +67,6 @@ DnfDrake provides a shortcut to the Software Repository Selector (`om-repo-picke
 
 ## Related Topics
 
-- [Using DNF](./index.en.html)
+- [Using DNF](./using-dnf.en.html)
 - [Software Repository Selector](./software-repository-selector.en.html)
 - [Managing Software](../managing-software.en.html)

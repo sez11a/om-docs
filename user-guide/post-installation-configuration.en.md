@@ -9,7 +9,7 @@ lang: en
 cards:
   - title: "Set Your User Avatar"
     description: "Personalize your desktop with a user-specific avatar image."
-    url: "/user-guide/post-installation-configuration/index.en.html"
+    url: "/user-guide/post-installation-configuration/set-your-user-avatar.en.html"
   - title: "Restore Your Files"
     description: "Learn the Linux home directory structure and where to copy your personal files."
     url: "/user-guide/post-installation-configuration/restore-your-files-after-installation.en.html"

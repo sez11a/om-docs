@@ -42,4 +42,4 @@ $ sudo dnf install nvidia-legacy-32bit
 ## Related Topics
 
 - [Managing Software](../managing-software.en.html)
-- [Using DNF](./index.en.html)
+- [Using DNF](./using-dnf.en.html)

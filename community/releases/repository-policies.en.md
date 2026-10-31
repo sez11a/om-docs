@@ -28,6 +28,6 @@ Once a package reaches its update channel, the team marks it complete and moves 
 
 ## Related Topics
 
-- [Release Plan and Repositories](../index.en.html)
+- [Release Plan and Repositories](./release-plan-and-repositories.en.html)
 - [Release Life Cycle](./release-life-cycle.en.html)
 - [Setting Up a Mirror](../setting-up-a-mirror.en.html)

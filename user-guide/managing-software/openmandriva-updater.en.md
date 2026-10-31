@@ -40,6 +40,6 @@ Flatpak and Snap packages can be searched in separate categories by clicking the
 
 ## Related Topics
 
-- [Using DNF](./index.en.html)
+- [Using DNF](./using-dnf.en.html)
 - [OpenMandriva Welcome](../openmandriva-welcome.en.html)
 - [First Ten Tasks After Installation](../first-steps.en.html)

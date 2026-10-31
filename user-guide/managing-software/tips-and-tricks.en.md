@@ -9,7 +9,7 @@ lang: en
 cards:
   - title: "Listing Installed Packages"
     description: "Generate a sorted list of all installed packages for auditing or comparison."
-    url: "/user-guide/managing-software/tips-and-tricks/index.en.html"
+    url: "/user-guide/managing-software/tips-and-tricks/listing-installed-packages.en.html"
   - title: "List the Latest Updates"
     description: "Find recently installed or updated packages to troubleshoot problems."
     url: "/user-guide/managing-software/tips-and-tricks/list-the-latest-updates.en.html"

@@ -26,7 +26,7 @@ Discover is the only graphical package manager installed by default, because it 
 
 ## Command-Line Package Manager
 
-For advanced control over software installation and management, use the command-line tools. *DNF* is the fastest and most powerful way to manage software. Almost everything you can do in a GUI, you can do in a terminal. See [Using DNF](./managing-software/index.en.html).
+For advanced control over software installation and management, use the command-line tools. *DNF* is the fastest and most powerful way to manage software. Almost everything you can do in a GUI, you can do in a terminal. See [Using DNF](./managing-software/using-dnf.en.html).
 
 ## Repository Selector and Other Sources
 

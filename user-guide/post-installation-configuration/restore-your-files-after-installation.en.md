@@ -50,6 +50,6 @@ Hidden files and directories (starting with a dot) store application settings. T
 
 ## Related Topics
 
-- [Set Your User Avatar](./index.en.html)
+- [Set Your User Avatar](./set-your-user-avatar.en.html)
 - [Configure a Printer](./configure-a-printer.en.html)
 - [Post Installation Configuration](../post-installation-configuration.en.html)

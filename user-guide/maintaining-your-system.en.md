@@ -9,7 +9,7 @@ lang: en
 cards:
   - title: "Update Your System"
     description: "Sync all packages to the latest versions for security, stability, and bug fixes."
-    url: "/user-guide/maintaining-your-system/index.en.html"
+    url: "/user-guide/maintaining-your-system/update-your-system.en.html"
   - title: "Switch Update Channels"
     description: "Change between the stable Rock release and the rolling ROME edition."
     url: "/user-guide/maintaining-your-system/switch-update-channels.en.html"

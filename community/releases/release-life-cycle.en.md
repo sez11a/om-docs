@@ -33,6 +33,6 @@ Once a release ships, it is stable and suitable for everyone. This is what most 
 
 ## Related Topics
 
-- [Release Plan and Repositories](../index.en.html)
+- [Release Plan and Repositories](./release-plan-and-repositories.en.html)
 - [Repository Policies](./repository-policies.en.html)
 - [Setting Up a Mirror](../setting-up-a-mirror.en.html)

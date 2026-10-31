@@ -35,6 +35,6 @@ $ rpm -qa --last > pkglist-last.txt
 
 ## Related Topics
 
-- [Listing Installed Packages](./index.en.html)
+- [Listing Installed Packages](./listing-installed-packages.en.html)
 - [List the Latest Updates](./list-the-latest-updates.en.html)
-- [Using DNF](../index.en.html)
+- [Using DNF](../using-dnf.en.html)

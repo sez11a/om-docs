@@ -174,7 +174,7 @@ Key build lists include
 
 ## Best Practices
 
-Run `auto-update --dry-run` first to review planned changes before applying updates. Never run `auto-update` on packages that belong to coordinated build lists; use `update` with the appropriate build list instead. When a shared library changes, run `depending-packages` to identify packages that may need rebuilding. Test changes with `local-rebuild` before pushing to GitHub. Run `fix-builddeps` periodically to catch missing dependencies. Check the [release plan](../community/releases/index.en.html) before migrating packages between Cooker, Rolling, and Rock branches.
+Run `auto-update --dry-run` first to review planned changes before applying updates. Never run `auto-update` on packages that belong to coordinated build lists; use `update` with the appropriate build list instead. When a shared library changes, run `depending-packages` to identify packages that may need rebuilding. Test changes with `local-rebuild` before pushing to GitHub. Run `fix-builddeps` periodically to catch missing dependencies. Check the [release plan](../community/releases/release-plan-and-repositories.en.html) before migrating packages between Cooker, Rolling, and Rock branches.
 
 ## Related Topics
 

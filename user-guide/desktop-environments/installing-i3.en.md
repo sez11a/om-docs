@@ -83,5 +83,5 @@ i3 coexists with other desktop environments. You can keep *Plasma* or *GNOME* in
 ## Related Topics
 
 - [Desktop Environments](../desktop-environments.en.html)
-- [Using DNF](../managing-software/index.en.html)
+- [Using DNF](../managing-software/using-dnf.en.html)
 - [Software Repository Selector](../managing-software/software-repository-selector.en.html)

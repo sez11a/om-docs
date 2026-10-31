@@ -141,7 +141,7 @@ Booting from DVD is deprecated, but OpenMandriva 6.0 ISOs boot from DVD using Le
 Use the [Software Repository Selector](../../user-guide/managing-software/software-repository-selector.en.html) (also known as *om-repo-picker*) to select additional repositories for more package availability.
 
 {: .warning }
-> **Do not mix repositories from different release versions or update channels.** For example, do not use Cooker repositories on a Rock system. If you use Rock, use Rock repositories only. This is explained in more detail in [Release Plan and Repositories](../../community/releases/index.en.html). If you mix different release/update channel repositories and break your computer, the solution is a fresh install. Do not do this again after the fresh install.
+> **Do not mix repositories from different release versions or update channels.** For example, do not use Cooker repositories on a Rock system. If you use Rock, use Rock repositories only. This is explained in more detail in [Release Plan and Repositories](../../community/releases/release-plan-and-repositories.en.html). If you mix different release/update channel repositories and break your computer, the solution is a fresh install. Do not do this again after the fresh install.
 
 ## How to Install and Remove Packages
 

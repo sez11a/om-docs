@@ -92,7 +92,7 @@ LXQt is a lightweight, Qt-based desktop. It is the successor to LXDE and provide
 
 ## Installing a Desktop
 
-Add a new desktop without removing your current one. Use [DNF](managing-software/index.en.html) to install a task package:
+Add a new desktop without removing your current one. Use [DNF](managing-software/using-dnf.en.html) to install a task package:
 
 ```bash
 $ sudo dnf install task-plasma
@@ -120,5 +120,5 @@ Try a desktop in [live mode](../../getting-started/downloading-openmandriva.en.h
 
 For a lighter, keyboard-driven setup, install a standalone window manager instead of a full desktop environment. These use fewer resources but require more manual configuration than the task-package-based desktops above.
 
-- [Installing i3](desktop-environments/index.en.html)---a tiling window manager for the X11 display server
+- [Installing i3](desktop-environments/installing-i3.en.html)---a tiling window manager for the X11 display server
 - [Installing Hyprland](desktop-environments/installing-hyprland.en.html)---a dynamic tiling compositor for the Wayland display server

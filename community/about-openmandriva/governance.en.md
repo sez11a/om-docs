@@ -10,7 +10,7 @@ lang: en
 
 The OpenMandriva Association *(OMA)* runs through a number of organs.
 
-The Council outlines the overall purpose, structure, and processes for OMA. The [Statutes](./statutes.en.html) and [Bylaws](./index.en.html) of OMA document the Association's policies and procedures as a non-profit organization under French law.
+The Council outlines the overall purpose, structure, and processes for OMA. The [Statutes](./statutes.en.html) and [Bylaws](./bylaws.en.html) of OMA document the Association's policies and procedures as a non-profit organization under French law.
 
 ## The Council
 

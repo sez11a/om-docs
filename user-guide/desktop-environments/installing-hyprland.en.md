@@ -78,5 +78,5 @@ The [Hyprland wiki](https://wiki.hypr.land/) has extensive documentation on conf
 ## Related Topics
 
 - [Desktop Environments](../desktop-environments.en.html)
-- [Using DNF](../managing-software/index.en.html)
+- [Using DNF](../managing-software/using-dnf.en.html)
 - [Software Repository Selector](../managing-software/software-repository-selector.en.html)

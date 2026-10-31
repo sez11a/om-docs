@@ -20,7 +20,7 @@ cards:
     url: "/getting-started/installing-openmandriva.en.html"
   - title: "Partitioning"
     description: "Learn about manual partitioning and encryption options."
-    url: "/getting-started/installing-openmandriva/index.en.html"
+    url: "/getting-started/installing-openmandriva/partitioning.en.html"
 ---
 
 # Getting Started

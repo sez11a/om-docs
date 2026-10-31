@@ -74,6 +74,6 @@ $ rpm -qa --last | grep "Thu 15 Mar"
 
 ## Related Topics
 
-- [Listing Installed Packages](./index.en.html)
+- [Listing Installed Packages](./listing-installed-packages.en.html)
 - [Create an Install Command from a Package List](./create-an-install-command-from-a-package-list.en.html)
-- [Using DNF](../index.en.html)
+- [Using DNF](../using-dnf.en.html)

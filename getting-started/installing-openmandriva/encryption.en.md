@@ -95,5 +95,5 @@ Before you encrypt, write down your passphrase and store it in a safe place. Cal
 
 ## Related Topics
 
-- [Partitioning](./index.en.html)
+- [Partitioning](./partitioning.en.html)
 - [Partitioning Schemas](./linux-partitions.en.html)

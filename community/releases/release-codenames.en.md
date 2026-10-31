@@ -30,6 +30,6 @@ Here is the list of codenames for OpenMandriva releases starting from 2013.0:
 
 ## Related Topics
 
-- [Release Plan and Repositories](./index.en.html)
+- [Release Plan and Repositories](./release-plan-and-repositories.en.html)
 - [Repository Policies](./repository-policies.en.html)
 - [Release Life Cycle](./release-life-cycle.en.html)

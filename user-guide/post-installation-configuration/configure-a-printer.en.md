@@ -94,4 +94,4 @@ If the printer still does not work, check that the printer is powered on, its ne
 
 - [Managing Software](../managing-software.en.html)
 - [Post Installation Configuration](../../post-installation-configuration.en.html)
-- [Set Your User Avatar](./index.en.html)
+- [Set Your User Avatar](./set-your-user-avatar.en.html)

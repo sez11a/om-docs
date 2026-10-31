@@ -56,4 +56,4 @@ Verify that the repositories you enabled appear in the output.
 ## Related Topics
 
 - [Managing Software](../managing-software.en.html)
-- [Using DNF](./index.en.html)
+- [Using DNF](./using-dnf.en.html)

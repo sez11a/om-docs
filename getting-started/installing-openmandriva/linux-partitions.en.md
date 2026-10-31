@@ -128,6 +128,6 @@ You can resize or move partitions later with GParted, but doing so on a mounted 
 
 ## Related Topics
 
-- [Partitioning](./index.en.html)
+- [Partitioning](./partitioning.en.html)
 - [Disk Encryption](./encryption.en.html)
 - [Installing OpenMandriva](../../installing-openmandriva.en.html)

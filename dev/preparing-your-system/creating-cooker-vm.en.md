@@ -10,7 +10,7 @@ lang: en
 
 Now that Virt Manager is installed and configured, create a virtual machine running OpenMandriva Cooker. This gives you a safe, isolated environment for building and testing packages without affecting your daily system.
 
-If you have not yet installed Virt Manager or configured storage pools, follow [Installing and Using Virt Manager](./index.en.html) first.
+If you have not yet installed Virt Manager or configured storage pools, follow [Installing and Using Virt Manager](./installing-and-using-virt-manager.en.html) first.
 
 ## Download a Cooker ISO
 
@@ -108,7 +108,7 @@ Files you place in `~/VMs/vmshare` on your host now appear in `/mnt/hostshare` i
 
 ## Related Topics
 
-- [Installing and Using Virt Manager](./index.en.html)
+- [Installing and Using Virt Manager](./installing-and-using-virt-manager.en.html)
 - [Preparing Your System](../preparing-your-system.en.html)
 - [Using Cooker](../using-cooker.en.html)
 - [Installing OpenMandriva](../../getting-started/installing-openmandriva.en.html)

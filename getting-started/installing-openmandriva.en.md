@@ -46,7 +46,7 @@ Always back up your data before you begin. Installing OpenMandriva may shrink, r
 
    - **Format a partition and install** — control which partition holds OpenMandriva.
 
-You may want to pause here, read [Partitioning](./installing-openmandriva/index.en.html), and decide how you want to partition your machine. When you have decided, make your choices here. What's pictured below is an example, not a recommendation. Choose how to partition your drive and click *Next*.
+You may want to pause here, read [Partitioning](./installing-openmandriva/partitioning.en.html), and decide how you want to partition your machine. When you have decided, make your choices here. What's pictured below is an example, not a recommendation. Choose how to partition your drive and click *Next*.
 
    ![Partition your drive.](./images/installing-openmandriva-06.png) 
 

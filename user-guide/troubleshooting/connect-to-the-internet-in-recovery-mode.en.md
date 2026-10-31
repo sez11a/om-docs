@@ -77,5 +77,5 @@ The `--ask` option is not needed for ethernet, since the system already has perm
 
 ## Related Topics
 
-- [Fix a Broken Bootloader](./index.en.html)
+- [Fix a Broken Bootloader](./fix-a-broken-bootloader.en.html)
 - [Maintaining Your System](../maintaining-your-system.en.html)

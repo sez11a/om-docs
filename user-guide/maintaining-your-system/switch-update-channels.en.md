@@ -13,7 +13,7 @@ OpenMandriva offers two main release branches: *Rock* (stable) and *ROME* (rolli
 
 {: .note }
 
-ROME requires comfort with the command line and basic *DNF* commands. Read [Release Plan and Repositories](../../community/releases/index.en.html) before switching.
+ROME requires comfort with the command line and basic *DNF* commands. Read [Release Plan and Repositories](../../community/releases/release-plan-and-repositories.en.html) before switching.
 
 ## Switch from Rock to ROME
 
@@ -51,4 +51,4 @@ Reverting to Rock requires a fresh installation. Back up your data first, then i
 ## Related Topics
 
 - [Maintaining Your System](../maintaining-your-system.en.html)
-- [Update Your System](./index.en.html)
+- [Update Your System](./update-your-system.en.html)

@@ -70,4 +70,4 @@ rpm -qa --last | grep "Thu 15 Mar"
 ## Related Topics
 
 - [Maintaining Your System](../maintaining-your-system.en.html)
-- [Update Your System](./index.en.html)
+- [Update Your System](./update-your-system.en.html)
