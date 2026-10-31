@@ -1,0 +1,46 @@
+---
+layout: null
+---
+# OpenMandriva Documentation
+
+> Documentation for the OpenMandriva Linux distribution.
+
+## Getting Started
+
+{{ '' }}
+{%- for page in site.pages -%}
+  {%- if page.lang == 'en' and page.url contains '/getting-started/' -%}
+- [{{ page.title }}]({{ page.url }}){% if page.description or page.excerpt %}: {{ page.description | default: page.excerpt | strip_html | truncate: 120 }}{% endif %}
+{{ '' }}
+  {%- endif -%}
+{%- endfor %}
+
+## User Guide
+
+{{ '' }}
+{%- for page in site.pages -%}
+  {%- if page.lang == 'en' and page.url contains '/user-guide/' -%}
+- [{{ page.title }}]({{ page.url }}){% if page.description or page.excerpt %}: {{ page.description | default: page.excerpt | strip_html | truncate: 120 }}{% endif %}
+{{ '' }}
+  {%- endif -%}
+{%- endfor %}
+
+## Developer Guide
+
+{{ '' }}
+{%- for page in site.pages -%}
+  {%- if page.lang == 'en' and page.url contains '/dev/' -%}
+- [{{ page.title }}]({{ page.url }}){% if page.description or page.excerpt %}: {{ page.description | default: page.excerpt | strip_html | truncate: 120 }}{% endif %}
+{{ '' }}
+  {%- endif -%}
+{%- endfor %}
+
+## Community
+
+{{ '' }}
+{%- for page in site.pages -%}
+  {%- if page.lang == 'en' and page.url contains '/community/' -%}
+- [{{ page.title }}]({{ page.url }}){% if page.description or page.excerpt %}: {{ page.description | default: page.excerpt | strip_html | truncate: 120 }}{% endif %}
+{{ '' }}
+  {%- endif -%}
+{%- endfor %}
